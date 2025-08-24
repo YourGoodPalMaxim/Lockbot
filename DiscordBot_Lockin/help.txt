@@ -1,0 +1,6 @@
+!hello - Says Hi :)
+!checkin - (format: d/m/y - time(minutes) - goal worked on) used for daily checkin
+!days - tells you how many total days have been logged
+!lastlog - tells you when you last logged
+!time - tells you how much time you've logged (minutes)
+!info - what you're looking at right now
